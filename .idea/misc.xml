@@ -4,7 +4,10 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/emild/Desktop/Proyectos/Layouts/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/emild/Desktop/Proyectos/Layouts/app/src/main/res/layout/fragment_frame.xml" value="0.33" />
         <entry key="..\:/Users/emild/Desktop/Proyectos/Layouts/app/src/main/res/layout/fragment_linear.xml" value="0.33" />
+        <entry key="..\:/Users/emild/Desktop/Proyectos/Layouts/app/src/main/res/layout/fragment_linear_layout.xml" value="0.33" />
+        <entry key="..\:/Users/emild/Desktop/Proyectos/Layouts/app/src/main/res/layout/fragment_notifications.xml" value="0.17831813576494426" />
       </map>
     </option>
   </component>
